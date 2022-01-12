@@ -15,7 +15,7 @@ const FeaturTitle = () => {
         <div className ="home-feature-carousel owl-carousel owl-theme">
 
                     <div className ="item">
-                  <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-blue" resim="assets/images/file.png" baslik="Fully Encrypted" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
+                  <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-blue" resim="assets/images/file.png" alt="feature" baslik="Fully Encrypted" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
                     deimod tempor incid-idunt ut dolor sit amet"   /> </div>
                 <div className ="feature-carousel-details">
                 </div> </div>
@@ -25,40 +25,40 @@ const FeaturTitle = () => {
 
                      
             <div className ="item">              
-              <Title ustbas="feature-carousel-content" renk="feature-carousel-thumb status-orange" resim="assets/images/hand.png" baslik="Transparent Pricing" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
+              <Title ustbas="feature-carousel-content" renk="feature-carousel-thumb status-orange" resim="assets/images/hand.png" alt="feature" baslik="Transparent Pricing" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
                     deimod tempor incid-idunt ut dolor sit amet"   /> </div>
                     <div className ="feature-carousel-details"> </div>
 
               
             <div className ="item">
-            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-green" resim="assets/images/megaphone.png" baslik="instant cashout" altaciklama="Lorem ipsum 
+            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-green" resim="assets/images/megaphone.png" alt="feature" baslik="instant cashout" altaciklama="Lorem ipsum 
             dolor sit amet, cosectetur adipisicing elit, sed deimod tempor incid-idunt ut dolor sit amet"   /> </div>
             <div className ="feature-carousel-details"> </div>
 
             <div className ="item">
-            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-orange" resim="assets/images/shield.png" baslik="Safe and Secure" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
+            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-orange" resim="assets/images/shield.png" alt="feature"  baslik="Safe and Secure" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
                     deimod tempor incid-idunt ut dolor sit amet"   /> </div>
                 <div className ="feature-carousel-details"> </div>
              
             <div className ="item">
-            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-blue" resim="assets/images/file.png" baslik="Fully Encrypted" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
+            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-blue" resim="assets/images/file.png" alt="feature" baslik="Fully Encrypted" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
                     deimod tempor incid-idunt ut dolor sit amet"   /> </div>
                 <div className ="feature-carousel-details"> </div>
              
                
                 <div className ="item">              
-              <Title ustbas="feature-carousel-content" renk="feature-carousel-thumb status-orange" resim="assets/images/hand.png" baslik="Transparent Pricing" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
+              <Title ustbas="feature-carousel-content" renk="feature-carousel-thumb status-orange" resim="assets/images/hand.png" alt="feature" baslik="Transparent Pricing" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
                     deimod tempor incid-idunt ut dolor sit amet"   /> </div>
                     <div className ="feature-carousel-details"> </div>
               
                    
                     <div className ="item">
-            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-orange" resim="assets/images/shield.png" baslik="Safe and Secure" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
+            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-orange" resim="assets/images/shield.png" alt="feature" baslik="Safe and Secure" altaciklama="Lorem ipsum dolor sit amet, cosectetur adipisicing elit, sed
                     deimod tempor incid-idunt ut dolor sit amet"   /> </div>
                 <div className ="feature-carousel-details"> </div>
              
                 <div className ="item">
-            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-green" resim="assets/images/megaphone.png" baslik="instant cashout" altaciklama="Lorem ipsum 
+            <Title ustbas="feature-carousel-content"   renk="feature-carousel-thumb status-green" resim="assets/images/megaphone.png" alt="feature" baslik="instant cashout" altaciklama="Lorem ipsum 
             dolor sit amet, cosectetur adipisicing elit, sed deimod tempor incid-idunt ut dolor sit amet"   /> </div>
             <div className ="feature-carousel-details"> </div>
            

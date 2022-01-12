@@ -1,19 +1,25 @@
 import React from 'react'
 
-const Title = (props)=> {
+const Title = (props) => {
     return (
-        <div className ={props.ustbas}>
+       
+           
+            <div className ="item">
+              <div className ={props.ustbas}>
                 <div className ={props.renk}>
-                  <img src={props.resim} alt="" />
+                  <img src={props.resim} alt="feature" />
                 </div>
-                <div className ={props.aciklama}>
+                <div className ="feature-carousel-details">
                   <h3>{props.baslik}</h3>
                   <p>
                     {props.altaciklama}
                   </p>
                 </div>
               </div>
-           
-    );
-};
-export default Title;
+            </div>
+            
+      
+    )
+}
+
+export default Title
